@@ -2,7 +2,7 @@
 Spring boot back end and front end application is developed
 
 Spring Boot + Angular + MongoDB CRUD Example Tutorial
-posted by Ramesh Fadatare on December 21, 2019
+posted by Nagarjuna Guntupalle on Feb 04, 2020
 
 In this tutorial, we will be building step by step an Angular CRUD Web Application using Spring Boot + Angular + MongoDB from scratch. 
 
